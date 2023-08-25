@@ -1,4 +1,4 @@
-# Week02---Algorithm
+# Week03---Algorithm
 
 # **[ 🚫 규칙 ]**
 
