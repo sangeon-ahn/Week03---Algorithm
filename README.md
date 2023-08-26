@@ -70,7 +70,7 @@
 |5|2023-08-25|[9084](https://www.acmicpc.net/problem/9084)|중|동적 프로그래밍|동전|✅|✅|✅|
 |6|2023-08-25|[2294](https://www.acmicpc.net/problem/2294)|중|동적 프로그래밍|동전 2|⚠️|⚠️|⚠️|
 |7|2023-08-25|[9251](https://www.acmicpc.net/problem/9251)|중|동적 프로그래밍|LCS|⚠️|⚠️|⚠️|
-|8|2023-08-25|[9252](https://www.acmicpc.net/problem/27489252)|중|동적 프로그래밍|LCS 2|⚠️|❌|⚠️|
+|8|2023-08-25|[9252](https://www.acmicpc.net/problem/27489252)|중|동적 프로그래밍|LCS 2|⚠️|⚠️|⚠️|
 |9|2023-08-25|[11053](https://www.acmicpc.net/problem/11053)|하|동적 프로그래밍|가장 긴 증가하는 부분 수열|❌|❌|⚠️|
 |10|2023-08-25|[16500](https://www.acmicpc.net/problem/16500)|중|동적 프로그래밍|문자열 판별|❌|❌|⚠️|
 |11|2023-08-25|[2629](https://www.acmicpc.net/problem/2629)|중|동적 프로그래밍|양팔저울|❌|❌|⚠️|
