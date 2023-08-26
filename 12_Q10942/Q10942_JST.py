@@ -19,9 +19,11 @@ for num_len in range(n): #num_len = start와 end 사이 간격 ex) 1 : 0 / 121 :
         # 시작점의 글자와 끝점의 글자가 같다면
         elif numbers[start] == numbers[end]:
         	# 두 글자짜리 문자열이라면 무조건 팰린드롬
-            if start + 1 == end: dp[start][end] = 1
+            if start + 1 == end: 
+                dp[start][end] = 1
             # 가운데 문자열이 팰린드롬이라면 팰린드롬
-            elif dp[start+1][end-1] == 1: dp[start][end] = 1
+            elif dp[start+1][end-1] == 1: 
+                dp[start][end] = 1
             
 
 #정답출력하기
