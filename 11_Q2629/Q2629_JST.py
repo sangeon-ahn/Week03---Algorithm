@@ -6,6 +6,7 @@ n_list = list(map(int, input().split()))
 m = int(input())
 m_list = list(map(int, input().split()))
 possible = [] # 가능한 무게(저울 차)
+'''set을 쓰면 더 빠르다 : O(1)'''
 dp = [[0]*15001 for i in range(n+1)] #dp[현재 몇번째 추를 사용할 차례인지][저울 무게의 차] = 0 : 더 진행 / 1 : 그만 진행
 
 def scale(now,left,right,possible):
