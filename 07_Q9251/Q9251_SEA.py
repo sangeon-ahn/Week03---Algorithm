@@ -19,3 +19,6 @@ for i in range(1, len(s1) + 1):
 
 print(dp[len(s2)][len(s1)])
     
+"""
+	122772kb	160ms
+"""

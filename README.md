@@ -1,4 +1,4 @@
-# Week02---Algorithm
+# Week03---Algorithm
 
 # **[ 🚫 규칙 ]**
 
@@ -66,16 +66,16 @@
 |1|2023-08-24|[10828](https://www.acmicpc.net/problem/2748)|하|동적 프로그래밍|피보나치 수 2|❌|✅|✅|
 |2|2023-08-24|[1904](https://www.acmicpc.net/problem/1904)|하|동적 프로그래밍|01타일|❌|✅|✅|
 |3|2023-08-24|[9655](https://www.acmicpc.net/problem/9655)|하|동적 프로그래밍|돌 게임|❌|✅|✅|
-|4|2023-08-25|[2624](https://www.acmicpc.net/problem/2624)|중|동적 프로그래밍|동전 바꿔주기|❌|❌|⚠️|
-|5|2023-08-25|[9084](https://www.acmicpc.net/problem/9084)|중|동적 프로그래밍|동전|❌|❌|✅|
-|6|2023-08-25|[2294](https://www.acmicpc.net/problem/2294)|중|동적 프로그래밍|동전 2|❌|❌|⚠️|
-|7|2023-08-25|[9251](https://www.acmicpc.net/problem/9251)|중|동적 프로그래밍|LCS|❌|❌|⚠️|
+|4|2023-08-25|[2624](https://www.acmicpc.net/problem/2624)|중|동적 프로그래밍|동전 바꿔주기|❌|⚠️|⚠️|
+|5|2023-08-25|[9084](https://www.acmicpc.net/problem/9084)|중|동적 프로그래밍|동전|❌|✅|✅|
+|6|2023-08-25|[2294](https://www.acmicpc.net/problem/2294)|중|동적 프로그래밍|동전 2|❌|⚠️|⚠️|
+|7|2023-08-25|[9251](https://www.acmicpc.net/problem/9251)|중|동적 프로그래밍|LCS|❌|⚠️|⚠️|
 |8|2023-08-25|[9252](https://www.acmicpc.net/problem/27489252)|중|동적 프로그래밍|LCS 2|❌|❌|⚠️|
-|9|2023-08-25|[11053](https://www.acmicpc.net/problem/11053)|하|동적 프로그래밍|가장 긴 증가하는 부분 수열|❌|❌|❌|
-|10|2023-08-25|[16500](https://www.acmicpc.net/problem/16500)|중|동적 프로그래밍|문자열 판별|❌|❌|❌|
-|11|2023-08-25|[2629](https://www.acmicpc.net/problem/2629)|중|동적 프로그래밍|양팔저울|❌|❌|❌|
-|12|2023-08-26|[10942](https://www.acmicpc.net/problem/10942)|중|동적 프로그래밍|팰린드롬?|❌|❌|❌|
-|13|2023-08-26|[1509](https://www.acmicpc.net/problem/1509)|상|동적 프로그래밍|팰린드롬 분할|❌|❌|❌|
+|9|2023-08-25|[11053](https://www.acmicpc.net/problem/11053)|하|동적 프로그래밍|가장 긴 증가하는 부분 수열|❌|❌|⚠️|
+|10|2023-08-25|[16500](https://www.acmicpc.net/problem/16500)|중|동적 프로그래밍|문자열 판별|❌|❌|⚠️|
+|11|2023-08-25|[2629](https://www.acmicpc.net/problem/2629)|중|동적 프로그래밍|양팔저울|❌|❌|⚠️|
+|12|2023-08-26|[10942](https://www.acmicpc.net/problem/10942)|중|동적 프로그래밍|팰린드롬?|❌|❌|⚠️|
+|13|2023-08-26|[1509](https://www.acmicpc.net/problem/1509)|상|동적 프로그래밍|팰린드롬 분할|❌|❌|⚠️|
 |14|2023-08-26|[11049](https://www.acmicpc.net/problem/11049)|중|동적 프로그래밍|행렬 곱셈 순서|❌|❌|❌|
 |15|2023-08-26|[2169](https://www.acmicpc.net/problem/2169)|상|동적 프로그래밍|로봇 조종하기|❌|❌|❌|
 |16|2023-08-26|[12865](https://www.acmicpc.net/problem/12865)|중|동적 프로그래밍|평범한 배낭|❌|❌|❌|
