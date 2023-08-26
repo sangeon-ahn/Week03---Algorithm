@@ -22,3 +22,44 @@ for coin, cnt in coins:
 
 
 print(dp[t])
+
+
+'''
+    [효율성]
+    -메모리 : 31256 KB
+    -시간 : 4828 ms
+'''
+
+
+
+# from functools import lru_cache
+
+# @lru_cache(maxsize=None)
+# def count_coin_combinations_recursive(target_money, coin_index):
+#     if target_money == 0:
+#         return 1
+    
+#     if target_money < 0 or coin_index < 0:
+#         return 0
+    
+#     coin, cnt = coins[coin_index]
+#     combinations = 0
+    
+#     for i in range(cnt + 1):
+#         combinations += count_coin_combinations_recursive(target_money - coin * i, coin_index - 1)
+    
+#     return combinations
+
+# import sys
+# input = sys.stdin.readline
+
+# t = int(input())
+# k = int(input())
+# coins = []
+
+# for _ in range(k):
+#     p, n = map(int, input().split())
+#     coins.append((p, n))
+
+# result = count_coin_combinations_recursive(t, k - 1)
+# print(result)
