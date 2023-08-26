@@ -67,7 +67,7 @@
 |2|2023-08-24|[1904](https://www.acmicpc.net/problem/1904)|하|동적 프로그래밍|01타일|❌|✅|✅|
 |3|2023-08-24|[9655](https://www.acmicpc.net/problem/9655)|하|동적 프로그래밍|돌 게임|❌|✅|✅|
 |4|2023-08-25|[2624](https://www.acmicpc.net/problem/2624)|중|동적 프로그래밍|동전 바꿔주기|❌|⚠️|⚠️|
-|5|2023-08-25|[9084](https://www.acmicpc.net/problem/9084)|중|동적 프로그래밍|동전|❌|⚠️|✅|
+|5|2023-08-25|[9084](https://www.acmicpc.net/problem/9084)|중|동적 프로그래밍|동전|❌|✅|✅|
 |6|2023-08-25|[2294](https://www.acmicpc.net/problem/2294)|중|동적 프로그래밍|동전 2|❌|⚠️|⚠️|
 |7|2023-08-25|[9251](https://www.acmicpc.net/problem/9251)|중|동적 프로그래밍|LCS|❌|⚠️|⚠️|
 |8|2023-08-25|[9252](https://www.acmicpc.net/problem/27489252)|중|동적 프로그래밍|LCS 2|❌|❌|⚠️|
