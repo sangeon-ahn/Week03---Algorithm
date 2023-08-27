@@ -82,7 +82,7 @@
 |17|2023-08-26|[12920](https://www.acmicpc.net/problem/12920)|상|동적 프로그래밍|평범한 배낭 2|❌|❌|⚠️|
 |18|2023-08-26|[2098](https://www.acmicpc.net/problem/2098)|상|동적 프로그래밍|외판원 순회|❌|❌|⚠️|
 |19|2023-08-26|[2253](https://www.acmicpc.net/problem/2253)|상|동적 프로그래밍|점프|❌|❌|⚠️|
-|20|2023-08-27|[11047](https://www.acmicpc.net/problem/11047)|하|그리디|동전 0|❌|❌|❌|
+|20|2023-08-27|[11047](https://www.acmicpc.net/problem/11047)|하|그리디|동전 0|❌|❌|✅|
 |21|2023-08-27|[1541](https://www.acmicpc.net/problem/1541)|하|그리디|잃어버린 괄호|❌|❌|❌|
 |22|2023-08-27|[1931](https://www.acmicpc.net/problem/1931)|중|그리디|회의실 배정|❌|❌|❌|
 |23|2023-08-27|[1946](https://www.acmicpc.net/problem/1946)|중|그리디|신입사원|❌|❌|❌|
