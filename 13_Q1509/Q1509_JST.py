@@ -43,6 +43,9 @@ for end in range(n): #end : 몇칸짜리
             dp2[end] = min(dp2[end], dp2[start - 1] + 1) #dp2[start - 1] + 1 : 이전 글자 까지의 집합 + 자기자신 추가
         else:
             dp2[end] = min(dp2[end], dp2[end - 1] + 1) # end - 1 : 이전꺼까지의 집합 + 자기자신 추가
+
+
+            #어차피 둘다 자기 자신 + 새 원소이므로 이 else문은 사실상 필요 x
 '''
 if 에서 dp2[start - 1] + 1 인 건 예를들어 ABABA 가 있고, start가 2, end 가 4 일 때, start - 1 만큼의 인덱스의 값(집합원소 수) + 자기 자신 1 이기 때문이다.
 else 문에서 dp2[end - 1] + 1 인 이유는, 어차피 팰린드롬이 아니기에 마지막 원소는 이전 집합 + 1이기 때문이다.
