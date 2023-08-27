@@ -7,7 +7,15 @@ m = int(input())
 
 #dp
 dp = [[0] * n for _ in range(n)] #2차원 배열. y축과 x축 각각 문자열의 양 끝 점을 나타냄. 값이 1이면 양 끝점이 팰린드롬
-
+'''
+                                       A  B  A  B  A    => 문자열
+    A에서 시작할 때                    A [1, 0, 1, 0, 1]    즉 1이 있는 A에서 시작할 때
+    B에서 시작할 때                    B [0, 1, 0, 1, 0]
+    A에서 시작할 때                    A [0, 0, 1, 0, 1]
+    B에서 시작할 때                    B [0, 0, 0, 1, 0]
+    A에서 시작할 때                    A [0, 0, 0, 0, 1]            
+    
+'''
 
 for num_len in range(n): #num_len = start와 end 사이 간격 ex) 1 : 0 / 121 : 2
     for start in range(n - num_len):
