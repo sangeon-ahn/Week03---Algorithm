@@ -85,7 +85,7 @@
 |20|2023-08-27|[11047](https://www.acmicpc.net/problem/11047)|하|그리디|동전 0|❌|❌|✅|
 |21|2023-08-27|[1541](https://www.acmicpc.net/problem/1541)|하|그리디|잃어버린 괄호|❌|❌|✅|
 |22|2023-08-27|[1931](https://www.acmicpc.net/problem/1931)|중|그리디|회의실 배정|❌|❌|✅|
-|23|2023-08-27|[1946](https://www.acmicpc.net/problem/1946)|중|그리디|신입사원|❌|❌|❌|
+|23|2023-08-27|[1946](https://www.acmicpc.net/problem/1946)|중|그리디|신입사원|❌|❌|✅|
 |24|2023-08-27|[1781](https://www.acmicpc.net/problem/1781)|상|그리디|컵라면|❌|❌|❌|
 |25|2023-08-27|[1700](https://www.acmicpc.net/problem/1700)|상|그리디|멀티탭 스케줄링|❌|❌|❌|
 |26|2023-08-27|[9249](https://www.acmicpc.net/problem/9249)|상|도전?|최장 공통 부분 문자열|❌|❌|❌|
